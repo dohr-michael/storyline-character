@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "storyline",
+    "packageName": "org.mdo.storyline.character",
+    "packageFolder": "org/mdo/storyline/character",
+    "authenticationType": "token",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "nosql",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
